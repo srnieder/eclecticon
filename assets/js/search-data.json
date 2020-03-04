@@ -69,17 +69,6 @@
 
   
       ,"page9": {
-          "title": "Pages",
-          "content": "Resources . Jekyll posts | Example markdown post | .",
-          "url": "https://fastpages.fast.ai/_pages/README.html",
-          "relUrl": "/_pages/README.html",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page10": {
           "title": "",
           "content": "This site is built a personal blog by Dr Simon Niedertpages”) .",
           "url": "https://fastpages.fast.ai/",
@@ -90,18 +79,7 @@
   
 
   
-      ,"page11": {
-          "title": "Pages",
-          "content": "Resources . Jekyll posts | Example markdown post | .",
-          "url": "https://fastpages.fast.ai/_pages/",
-          "relUrl": "/_pages/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page12": {
+      ,"page10": {
           "title": "",
           "content": "Warning . Do not manually save images into this folder. This is used by GitHub Actions to automatically copy images. Any images you save into this folder could be deleted at build time. .",
           "url": "https://fastpages.fast.ai/images/copied_from_nb/",
